@@ -9,9 +9,6 @@ def hello():
     print("Hello, DevOps learner!")
 
 def bye():
-    """
-    Docstring for bye
-    """
     print("Goodbye!")
 
 
